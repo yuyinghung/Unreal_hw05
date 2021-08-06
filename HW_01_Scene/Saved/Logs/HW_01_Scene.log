@@ -1907,3 +1907,189 @@ Please see Output Log for details.
 [2021.08.06-08.49.45:772][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto6.uasset" SILENT=false AUTOSAVING=true
 [2021.08.06-08.49.45:806][306]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller_Auto69FE75CB845E00C1A3F6A278484A0E4CF.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto6.uasset'
 [2021.08.06-08.49.45:808][306]LogFileHelpers: Auto-saving content packages took 0.083
+[2021.08.06-08.59.46:485][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.08.06-08.59.46:488][327]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/map/secret_garden' took 0.035
+[2021.08.06-08.59.46:488][327]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bp/bp_controller] ([2] browsable assets)...
+[2021.08.06-08.59.46:513][327]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-08.59.46:534][327]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-08.59.46:534][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp/bp_controller]
+[2021.08.06-08.59.46:534][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2021.08.06-08.59.46:565][327]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller_Auto79133967D4E5A8409299514A1C3803BA8.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto7.uasset'
+[2021.08.06-08.59.46:567][327]LogFileHelpers: Auto-saving content packages took 0.079
+[2021.08.06-09.12.03:489][748]BlueprintLog: New page: Compile bp_controller
+[2021.08.06-09.12.03:550][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.08.06-09.12.04:449][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset" SILENT=true
+[2021.08.06-09.12.04:481][824]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller469D1B1A40C1E1D5CBDB1F821F43B10E.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset'
+[2021.08.06-09.12.04:499][824]AssetCheck: New page: Asset Save: bp_controller
+[2021.08.06-09.12.04:499][824]LogContentValidation: Display: Validating Blueprint /Game/bp/bp_controller.bp_controller
+[2021.08.06-09.12.51:056][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.08.06-09.12.51:058][433]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/map/secret_garden' took 0.032
+[2021.08.06-09.12.51:059][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bp/bp_controller] ([2] browsable assets)...
+[2021.08.06-09.12.51:084][433]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-09.12.51:105][433]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-09.12.51:105][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp/bp_controller]
+[2021.08.06-09.12.51:105][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2021.08.06-09.12.51:137][433]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller_Auto8FB8FF13747CC14A55032AD9729521FA3.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto8.uasset'
+[2021.08.06-09.12.51:139][433]LogFileHelpers: Auto-saving content packages took 0.080
+[2021.08.06-09.15.18:054][277]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.06-09.17.32:004][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset" SILENT=true
+[2021.08.06-09.17.32:035][397]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controllerBAD0F92E4DB87328AF44DB87F1F82D35.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset'
+[2021.08.06-09.17.32:054][397]AssetCheck: New page: Asset Save: bp_controller
+[2021.08.06-09.17.32:054][397]LogContentValidation: Display: Validating Blueprint /Game/bp/bp_controller.bp_controller
+[2021.08.06-09.17.33:461][550]BlueprintLog: New page: Compile bp_controller
+[2021.08.06-09.17.33:526][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.08.06-09.17.34:354][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset" SILENT=true
+[2021.08.06-09.17.34:386][613]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller7CA61876423F3B3A71BD119394A504BA.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset'
+[2021.08.06-09.17.34:402][613]AssetCheck: New page: Asset Save: bp_controller
+[2021.08.06-09.17.34:402][613]LogContentValidation: Display: Validating Blueprint /Game/bp/bp_controller.bp_controller
+[2021.08.06-09.19.38:773][932]BlueprintLog: New page: Compile bp_game_interface
+[2021.08.06-09.19.38:826][932]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.08.06-09.19.39:478][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_game_interface" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_game_interface.uasset" SILENT=true
+[2021.08.06-09.19.39:515][995]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_game_interface470C4D85488D0D85DB205DA4430D4125.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_game_interface.uasset'
+[2021.08.06-09.19.39:532][995]AssetCheck: New page: Asset Save: bp_game_interface
+[2021.08.06-09.19.39:532][995]LogContentValidation: Display: Validating WidgetBlueprint /Game/bp/bp_game_interface.bp_game_interface
+[2021.08.06-09.19.54:535][733]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-09.19.54:544][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-09.19.54:544][733]PIE: New page: PIE session: secret_garden (2021年8月7日 上午1:19:54)
+[2021.08.06-09.19.54:545][733]LogPlayLevel: Creating play world package: /Game/map/UEDPIE_0_secret_garden
+[2021.08.06-09.19.55:006][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.460907s)
+[2021.08.06-09.19.55:007][733]LogAIModule: Creating AISystem for world secret_garden
+[2021.08.06-09.19.55:009][733]LogPlayLevel: PIE: World Init took: (0.002707s)
+[2021.08.06-09.19.55:010][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/secret_garden.secret_garden to /Game/map/UEDPIE_0_secret_garden.secret_garden (0.464624s)
+[2021.08.06-09.19.55:043][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.08.06-09.19.55:045][733]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.08.06-09.19.55:045][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-09.19.55:045][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-09.19.55:045][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-09.19.55:045][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-09.19.55:045][733]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-09.19.55:045][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-09.19.55:045][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-09.19.55:045][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-09.19.55:045][733]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-09.19.55:045][733]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-09.19.55:048][733]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-09.19.55:048][733]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-09.19.55:056][733]LogAudioMixer: Display: Using Audio Device 耳機 (KTNET SB100 Stereo)
+[2021.08.06-09.19.55:056][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-09.19.55:056][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-09.19.55:056][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-09.19.55:057][733]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-09.19.55:057][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-09.19.55:057][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-09.19.55:068][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-09.19.55:068][733]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-09.19.55:068][733]LogInit: FAudioDevice initialized.
+[2021.08.06-09.19.55:068][733]LogAudio: Display: Audio Device (ID: 10) registered with world 'secret_garden'.
+[2021.08.06-09.19.55:094][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-09.19.55:094][733]LogLoad: Game class is 'bp_game_mode_C'
+[2021.08.06-09.19.55:288][733]LogWorld: Bringing World /Game/map/UEDPIE_0_secret_garden.secret_garden up for play (max tick rate 0) at 2021.08.06-17.19.55
+[2021.08.06-09.19.55:292][733]LogWorld: Bringing up level for play took: 0.197684
+[2021.08.06-09.19.55:293][733]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.08.06-09.19.55:304][733]PIE: Server logged in
+[2021.08.06-09.19.55:304][733]PIE: Play in editor total start time 0.763 seconds.
+[2021.08.06-09.20.19:154][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-09.20.19:154][509]LogWorld: BeginTearingDown for /Game/map/UEDPIE_0_secret_garden
+[2021.08.06-09.20.19:155][509]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.06-09.20.19:166][509]LogWorld: UWorld::CleanupWorld for secret_garden, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-09.20.19:194][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-09.20.19:205][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-09.20.19:229][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-09.20.19:270][509]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-09.20.19:275][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-09.20.19:276][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-09.20.19:366][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.08.06-09.20.19:384][510]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.08.06-09.22.23:093][269]BlueprintLog: New page: Compile bp_game_interface
+[2021.08.06-09.22.23:135][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.08.06-09.22.24:140][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_game_interface" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_game_interface.uasset" SILENT=true
+[2021.08.06-09.22.24:176][367]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_game_interface304CD832459167E54E29C4A0007B1C57.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_game_interface.uasset'
+[2021.08.06-09.22.24:192][367]AssetCheck: New page: Asset Save: bp_game_interface
+[2021.08.06-09.22.24:193][367]LogContentValidation: Display: Validating WidgetBlueprint /Game/bp/bp_game_interface.bp_game_interface
+[2021.08.06-09.57.45:971][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_game_interface" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_game_interface.uasset" SILENT=true
+[2021.08.06-09.57.46:007][725]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_game_interfaceA0E8CD914ABC303B2DFB19AD4F3BA5E9.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_game_interface.uasset'
+[2021.08.06-09.57.46:028][725]AssetCheck: New page: Asset Save: bp_game_interface
+[2021.08.06-09.57.46:028][725]LogContentValidation: Display: Validating WidgetBlueprint /Game/bp/bp_game_interface.bp_game_interface
+[2021.08.06-09.57.55:565][665]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.08.06-09.59.01:572][ 35]LogSlate: Window 'Project Settings' being destroyed
+[2021.08.06-09.59.01:583][ 35]LogSlate: Window 'Project Settings' being destroyed
+[2021.08.06-10.00.34:471][473]BlueprintLog: New page: Compile bp_controller
+[2021.08.06-10.00.34:561][473]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.08.06-10.00.35:321][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset" SILENT=true
+[2021.08.06-10.00.35:357][542]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller329E5126463BC7DC476A3A9C0CB1D359.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset'
+[2021.08.06-10.00.35:375][542]AssetCheck: New page: Asset Save: bp_controller
+[2021.08.06-10.00.35:375][542]LogContentValidation: Display: Validating Blueprint /Game/bp/bp_controller.bp_controller
+[2021.08.06-10.01.55:376][559]BlueprintLog: New page: Compile bp_controller
+[2021.08.06-10.01.55:446][559]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2021.08.06-10.01.56:170][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset" SILENT=true
+[2021.08.06-10.01.56:204][623]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller7EBFC7D3422A14B8C131EFAB58FFDE18.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset'
+[2021.08.06-10.01.56:220][623]AssetCheck: New page: Asset Save: bp_controller
+[2021.08.06-10.01.56:220][623]LogContentValidation: Display: Validating Blueprint /Game/bp/bp_controller.bp_controller
+[2021.08.06-10.02.17:379][529]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-10.02.17:386][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-10.02.17:387][529]PIE: New page: PIE session: secret_garden (2021年8月7日 上午2:02:17)
+[2021.08.06-10.02.17:387][529]LogPlayLevel: Creating play world package: /Game/map/UEDPIE_0_secret_garden
+[2021.08.06-10.02.17:845][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.459217s)
+[2021.08.06-10.02.17:846][529]LogAIModule: Creating AISystem for world secret_garden
+[2021.08.06-10.02.17:848][529]LogPlayLevel: PIE: World Init took: (0.002355s)
+[2021.08.06-10.02.17:848][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/secret_garden.secret_garden to /Game/map/UEDPIE_0_secret_garden.secret_garden (0.462477s)
+[2021.08.06-10.02.17:886][529]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.08.06-10.02.17:888][529]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.08.06-10.02.17:888][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-10.02.17:888][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-10.02.17:888][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-10.02.17:888][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-10.02.17:888][529]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-10.02.17:888][529]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-10.02.17:888][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-10.02.17:888][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-10.02.17:888][529]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-10.02.17:888][529]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-10.02.17:891][529]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-10.02.17:891][529]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-10.02.17:899][529]LogAudioMixer: Display: Using Audio Device 耳機 (KTNET SB100 Stereo)
+[2021.08.06-10.02.17:899][529]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-10.02.17:899][529]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-10.02.17:899][529]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-10.02.17:900][529]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-10.02.17:900][529]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-10.02.17:900][529]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-10.02.17:911][529]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-10.02.17:911][529]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-10.02.17:911][529]LogInit: FAudioDevice initialized.
+[2021.08.06-10.02.17:911][529]LogAudio: Display: Audio Device (ID: 11) registered with world 'secret_garden'.
+[2021.08.06-10.02.17:962][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-10.02.17:962][529]LogLoad: Game class is 'bp_game_mode_C'
+[2021.08.06-10.02.18:152][529]LogWorld: Bringing World /Game/map/UEDPIE_0_secret_garden.secret_garden up for play (max tick rate 0) at 2021.08.06-18.02.18
+[2021.08.06-10.02.18:156][529]LogWorld: Bringing up level for play took: 0.193065
+[2021.08.06-10.02.18:156][529]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.08.06-10.02.18:168][529]PIE: Server logged in
+[2021.08.06-10.02.18:170][529]PIE: Play in editor total start time 0.788 seconds.
+[2021.08.06-10.02.29:935][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-10.02.29:935][850]LogWorld: BeginTearingDown for /Game/map/UEDPIE_0_secret_garden
+[2021.08.06-10.02.29:935][850]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.06-10.02.29:945][850]LogWorld: UWorld::CleanupWorld for secret_garden, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-10.02.29:975][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-10.02.29:982][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-10.02.30:007][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-10.02.30:050][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-10.02.30:051][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-10.02.30:153][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.08.06-10.02.30:173][851]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.08.06-10.03.34:379][140]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.08.06-10.03.34:382][140]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/map/secret_garden' took 0.035
+[2021.08.06-10.03.34:382][140]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bp/bp_controller] ([2] browsable assets)...
+[2021.08.06-10.03.34:399][140]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-10.03.34:417][140]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-10.03.34:417][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp/bp_controller]
+[2021.08.06-10.03.34:417][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2021.08.06-10.03.34:451][140]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller_Auto90FED74C34CA0B6C1AC2762BFB04C673F.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto9.uasset'
+[2021.08.06-10.03.34:453][140]LogFileHelpers: Auto-saving content packages took 0.072
+[2021.08.06-10.04.33:124][175]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2021.08.06-10.04.37:855][687]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.06-10.05.20:089][920]BlueprintLog: New page: Compile bp_controller
+[2021.08.06-10.05.20:158][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.08.06-10.05.20:726][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset" SILENT=true
+[2021.08.06-10.05.20:759][971]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller16257CA44881460FA42C1FA3CC9A9FEC.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset'
+[2021.08.06-10.05.20:779][971]AssetCheck: New page: Asset Save: bp_controller
+[2021.08.06-10.05.20:779][971]LogContentValidation: Display: Validating Blueprint /Game/bp/bp_controller.bp_controller
