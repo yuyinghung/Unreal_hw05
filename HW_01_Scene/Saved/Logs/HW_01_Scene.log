@@ -1558,3 +1558,352 @@ Please see Output Log for details.
 [2021.08.06-07.42.03:154][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.08.06-07.42.03:189][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
 [2021.08.06-07.42.03:275][694]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.08.06-07.43.03:759][ 41]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/bp/bp_game_interface.bp_game_interface
+[2021.08.06-07.47.22:227][471]BlueprintLog: New page: Compile bp_game_interface
+[2021.08.06-07.47.22:286][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.08.06-07.47.23:124][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_game_interface" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_game_interface.uasset" SILENT=true
+[2021.08.06-07.47.23:159][531]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_game_interface4C507A804D4305DDCC1C799545F16C9B.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_game_interface.uasset'
+[2021.08.06-07.47.23:230][531]AssetCheck: New page: Asset Save: bp_game_interface
+[2021.08.06-07.47.23:230][531]LogContentValidation: Display: Validating WidgetBlueprint /Game/bp/bp_game_interface.bp_game_interface
+[2021.08.06-07.47.23:795][585]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-07.47.23:802][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-07.47.23:802][585]PIE: New page: PIE session: secret_garden (2021年8月6日 下午11:47:23)
+[2021.08.06-07.47.23:802][585]LogPlayLevel: Creating play world package: /Game/map/UEDPIE_0_secret_garden
+[2021.08.06-07.47.24:262][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.459854s)
+[2021.08.06-07.47.24:263][585]LogAIModule: Creating AISystem for world secret_garden
+[2021.08.06-07.47.24:264][585]LogPlayLevel: PIE: World Init took: (0.002306s)
+[2021.08.06-07.47.24:265][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/secret_garden.secret_garden to /Game/map/UEDPIE_0_secret_garden.secret_garden (0.463080s)
+[2021.08.06-07.47.24:301][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.08.06-07.47.24:301][585]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.08.06-07.47.24:302][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-07.47.24:302][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-07.47.24:302][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-07.47.24:302][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-07.47.24:302][585]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-07.47.24:302][585]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-07.47.24:302][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-07.47.24:302][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-07.47.24:302][585]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-07.47.24:302][585]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-07.47.24:304][585]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-07.47.24:304][585]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-07.47.24:313][585]LogAudioMixer: Display: Using Audio Device 耳機 (KTNET SB100 Stereo)
+[2021.08.06-07.47.24:313][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-07.47.24:313][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-07.47.24:313][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-07.47.24:314][585]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-07.47.24:314][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-07.47.24:314][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-07.47.24:323][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-07.47.24:323][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-07.47.24:323][585]LogInit: FAudioDevice initialized.
+[2021.08.06-07.47.24:323][585]LogAudio: Display: Audio Device (ID: 5) registered with world 'secret_garden'.
+[2021.08.06-07.47.24:355][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-07.47.24:355][585]LogLoad: Game class is 'bp_game_mode_C'
+[2021.08.06-07.47.24:549][585]LogWorld: Bringing World /Game/map/UEDPIE_0_secret_garden.secret_garden up for play (max tick rate 0) at 2021.08.06-15.47.24
+[2021.08.06-07.47.24:554][585]LogWorld: Bringing up level for play took: 0.197630
+[2021.08.06-07.47.24:554][585]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.08.06-07.47.24:565][585]PIE: Server logged in
+[2021.08.06-07.47.24:565][585]PIE: Play in editor total start time 0.766 seconds.
+[2021.08.06-07.47.24:860][587]LogRenderer: Reallocating scene render targets to support 1280x880 Format 10 NumSamples 1 (Frame:1).
+[2021.08.06-07.47.31:814][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-07.47.31:814][353]LogWorld: BeginTearingDown for /Game/map/UEDPIE_0_secret_garden
+[2021.08.06-07.47.31:815][353]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.06-07.47.31:828][353]LogWorld: UWorld::CleanupWorld for secret_garden, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-07.47.31:858][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-07.47.31:868][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-07.47.31:892][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-07.47.31:929][353]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-07.47.31:929][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-07.47.31:930][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-07.47.32:035][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.08.06-07.47.32:057][354]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.08.06-07.49.03:271][  2]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bp/bp_controller.bp_controller
+[2021.08.06-07.49.03:645][  3]LogSlate: Took 0.001737 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.08.06-07.51.58:461][680]BlueprintLog: New page: Compile bp_controller
+[2021.08.06-07.51.58:535][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.08.06-07.51.59:316][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset" SILENT=true
+[2021.08.06-07.51.59:345][724]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controllerFEB000F4493AAC551DFBA19D9715E045.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset'
+[2021.08.06-07.51.59:361][724]AssetCheck: New page: Asset Save: bp_controller
+[2021.08.06-07.51.59:361][724]LogContentValidation: Display: Validating Blueprint /Game/bp/bp_controller.bp_controller
+[2021.08.06-07.52.02:716][117]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-07.52.02:723][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-07.52.02:723][117]PIE: New page: PIE session: secret_garden (2021年8月6日 下午11:52:02)
+[2021.08.06-07.52.02:724][117]LogPlayLevel: Creating play world package: /Game/map/UEDPIE_0_secret_garden
+[2021.08.06-07.52.03:186][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.462521s)
+[2021.08.06-07.52.03:187][117]LogAIModule: Creating AISystem for world secret_garden
+[2021.08.06-07.52.03:188][117]LogPlayLevel: PIE: World Init took: (0.002255s)
+[2021.08.06-07.52.03:189][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/secret_garden.secret_garden to /Game/map/UEDPIE_0_secret_garden.secret_garden (0.465742s)
+[2021.08.06-07.52.03:220][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.08.06-07.52.03:223][117]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.08.06-07.52.03:223][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-07.52.03:223][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-07.52.03:223][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-07.52.03:223][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-07.52.03:223][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-07.52.03:223][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-07.52.03:223][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-07.52.03:223][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-07.52.03:223][117]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-07.52.03:223][117]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-07.52.03:225][117]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-07.52.03:225][117]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-07.52.03:233][117]LogAudioMixer: Display: Using Audio Device 耳機 (KTNET SB100 Stereo)
+[2021.08.06-07.52.03:233][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-07.52.03:233][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-07.52.03:233][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-07.52.03:234][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-07.52.03:234][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-07.52.03:234][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-07.52.03:244][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-07.52.03:244][117]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-07.52.03:244][117]LogInit: FAudioDevice initialized.
+[2021.08.06-07.52.03:244][117]LogAudio: Display: Audio Device (ID: 6) registered with world 'secret_garden'.
+[2021.08.06-07.52.03:297][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-07.52.03:297][117]LogLoad: Game class is 'bp_game_mode_C'
+[2021.08.06-07.52.03:486][117]LogWorld: Bringing World /Game/map/UEDPIE_0_secret_garden.secret_garden up for play (max tick rate 0) at 2021.08.06-15.52.03
+[2021.08.06-07.52.03:490][117]LogWorld: Bringing up level for play took: 0.192697
+[2021.08.06-07.52.03:490][117]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.08.06-07.52.03:501][117]PIE: Server logged in
+[2021.08.06-07.52.03:502][117]PIE: Play in editor total start time 0.782 seconds.
+[2021.08.06-07.52.19:425][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-07.52.19:425][932]LogWorld: BeginTearingDown for /Game/map/UEDPIE_0_secret_garden
+[2021.08.06-07.52.19:425][932]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.06-07.52.19:436][932]LogWorld: UWorld::CleanupWorld for secret_garden, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-07.52.19:465][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-07.52.19:473][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-07.52.19:496][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-07.52.19:536][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-07.52.19:536][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-07.52.19:537][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-07.52.19:630][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.08.06-07.52.19:657][933]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.08.06-07.52.24:928][554]BlueprintLog: New page: Compile bp_controller
+[2021.08.06-07.52.24:990][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.08.06-07.52.25:685][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset" SILENT=true
+[2021.08.06-07.52.25:714][603]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controllerF19D3E1940B0B8A032D2279E4614C8BE.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset'
+[2021.08.06-07.52.25:728][603]AssetCheck: New page: Asset Save: bp_controller
+[2021.08.06-07.52.25:729][603]LogContentValidation: Display: Validating Blueprint /Game/bp/bp_controller.bp_controller
+[2021.08.06-07.52.27:025][749]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-07.52.27:031][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-07.52.27:032][749]PIE: New page: PIE session: secret_garden (2021年8月6日 下午11:52:27)
+[2021.08.06-07.52.27:032][749]LogPlayLevel: Creating play world package: /Game/map/UEDPIE_0_secret_garden
+[2021.08.06-07.52.27:467][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.436007s)
+[2021.08.06-07.52.27:468][749]LogAIModule: Creating AISystem for world secret_garden
+[2021.08.06-07.52.27:469][749]LogPlayLevel: PIE: World Init took: (0.002078s)
+[2021.08.06-07.52.27:470][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/secret_garden.secret_garden to /Game/map/UEDPIE_0_secret_garden.secret_garden (0.439034s)
+[2021.08.06-07.52.27:501][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.08.06-07.52.27:502][749]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.08.06-07.52.27:502][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-07.52.27:502][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-07.52.27:502][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-07.52.27:502][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-07.52.27:502][749]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-07.52.27:502][749]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-07.52.27:502][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-07.52.27:502][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-07.52.27:502][749]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-07.52.27:502][749]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-07.52.27:504][749]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-07.52.27:504][749]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-07.52.27:513][749]LogAudioMixer: Display: Using Audio Device 耳機 (KTNET SB100 Stereo)
+[2021.08.06-07.52.27:513][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-07.52.27:513][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-07.52.27:513][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-07.52.27:514][749]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-07.52.27:514][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-07.52.27:514][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-07.52.27:524][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-07.52.27:524][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-07.52.27:524][749]LogInit: FAudioDevice initialized.
+[2021.08.06-07.52.27:524][749]LogAudio: Display: Audio Device (ID: 7) registered with world 'secret_garden'.
+[2021.08.06-07.52.27:578][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-07.52.27:578][749]LogLoad: Game class is 'bp_game_mode_C'
+[2021.08.06-07.52.27:769][749]LogWorld: Bringing World /Game/map/UEDPIE_0_secret_garden.secret_garden up for play (max tick rate 0) at 2021.08.06-15.52.27
+[2021.08.06-07.52.27:773][749]LogWorld: Bringing up level for play took: 0.192777
+[2021.08.06-07.52.27:773][749]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.08.06-07.52.27:784][749]PIE: Server logged in
+[2021.08.06-07.52.27:784][749]PIE: Play in editor total start time 0.755 seconds.
+[2021.08.06-07.52.38:585][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-07.52.38:585][977]LogWorld: BeginTearingDown for /Game/map/UEDPIE_0_secret_garden
+[2021.08.06-07.52.38:585][977]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.06-07.52.38:596][977]LogWorld: UWorld::CleanupWorld for secret_garden, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-07.52.38:624][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-07.52.38:636][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-07.52.38:659][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-07.52.38:705][977]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-07.52.38:705][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-07.52.38:706][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-07.52.38:795][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.08.06-07.52.38:823][978]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.08.06-07.52.43:548][537]LogEditorTransaction: Undo Modify Component(s)
+[2021.08.06-07.52.44:044][552]LogEditorTransaction: Undo Modify Component(s)
+[2021.08.06-07.52.44:616][606]LogEditorTransaction: Undo Modify Component(s)
+[2021.08.06-07.52.45:020][653]LogEditorTransaction: Undo Modify Component(s)
+[2021.08.06-07.52.45:685][732]LogEditorTransaction: Undo Modify Component(s)
+[2021.08.06-07.52.46:162][788]LogEditorTransaction: Undo Modify Component(s)
+[2021.08.06-07.52.46:494][827]LogEditorTransaction: Undo Modify Component(s)
+[2021.08.06-07.52.46:701][851]LogEditorTransaction: Undo Modify Component(s)
+[2021.08.06-07.52.46:900][874]LogEditorTransaction: Undo Modify Component(s)
+[2021.08.06-07.52.47:091][896]LogEditorTransaction: Undo Set Scale
+[2021.08.06-07.52.47:283][911]LogEditorTransaction: Undo Set Scale
+[2021.08.06-07.52.47:489][934]LogEditorTransaction: Undo Set Scale
+[2021.08.06-07.52.53:148][588]BlueprintLog: New page: Compile bp_controller
+[2021.08.06-07.52.53:213][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.08.06-07.52.53:824][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset" SILENT=true
+[2021.08.06-07.52.53:852][629]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller936640754D58124E8DE607A103AF9ACA.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset'
+[2021.08.06-07.52.53:869][629]AssetCheck: New page: Asset Save: bp_controller
+[2021.08.06-07.52.53:869][629]LogContentValidation: Display: Validating Blueprint /Game/bp/bp_controller.bp_controller
+[2021.08.06-07.52.56:349][902]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-07.52.56:357][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-07.52.56:357][902]PIE: New page: PIE session: secret_garden (2021年8月6日 下午11:52:56)
+[2021.08.06-07.52.56:357][902]LogPlayLevel: Creating play world package: /Game/map/UEDPIE_0_secret_garden
+[2021.08.06-07.52.56:799][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.441701s)
+[2021.08.06-07.52.56:799][902]LogAIModule: Creating AISystem for world secret_garden
+[2021.08.06-07.52.56:801][902]LogPlayLevel: PIE: World Init took: (0.002045s)
+[2021.08.06-07.52.56:802][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/secret_garden.secret_garden to /Game/map/UEDPIE_0_secret_garden.secret_garden (0.444713s)
+[2021.08.06-07.52.56:836][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.08.06-07.52.56:836][902]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.08.06-07.52.56:836][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-07.52.56:836][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-07.52.56:836][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-07.52.56:836][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-07.52.56:836][902]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-07.52.56:836][902]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-07.52.56:836][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-07.52.56:836][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-07.52.56:837][902]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-07.52.56:837][902]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-07.52.56:839][902]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-07.52.56:839][902]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-07.52.56:846][902]LogAudioMixer: Display: Using Audio Device 耳機 (KTNET SB100 Stereo)
+[2021.08.06-07.52.56:847][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-07.52.56:847][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-07.52.56:847][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-07.52.56:847][902]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-07.52.56:847][902]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-07.52.56:847][902]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-07.52.56:858][902]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-07.52.56:858][902]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-07.52.56:858][902]LogInit: FAudioDevice initialized.
+[2021.08.06-07.52.56:858][902]LogAudio: Display: Audio Device (ID: 8) registered with world 'secret_garden'.
+[2021.08.06-07.52.56:912][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-07.52.56:912][902]LogLoad: Game class is 'bp_game_mode_C'
+[2021.08.06-07.52.57:093][902]LogWorld: Bringing World /Game/map/UEDPIE_0_secret_garden.secret_garden up for play (max tick rate 0) at 2021.08.06-15.52.57
+[2021.08.06-07.52.57:097][902]LogWorld: Bringing up level for play took: 0.185176
+[2021.08.06-07.52.57:097][902]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.08.06-07.52.57:108][902]PIE: Server logged in
+[2021.08.06-07.52.57:108][902]PIE: Play in editor total start time 0.755 seconds.
+[2021.08.06-07.53.04:735][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-07.53.04:735][748]LogWorld: BeginTearingDown for /Game/map/UEDPIE_0_secret_garden
+[2021.08.06-07.53.04:735][748]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.06-07.53.04:747][748]LogWorld: UWorld::CleanupWorld for secret_garden, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-07.53.04:774][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-07.53.04:783][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-07.53.04:808][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-07.53.04:854][748]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-07.53.04:855][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-07.53.04:855][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-07.53.04:942][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.08.06-07.53.04:972][749]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.08.06-07.55.18:644][193]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.08.06-07.55.18:648][193]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/map/secret_garden' took 0.037
+[2021.08.06-07.55.18:648][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bp/bp_controller] ([2] browsable assets)...
+[2021.08.06-07.55.18:668][193]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-07.55.18:685][193]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-07.55.18:685][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp/bp_controller]
+[2021.08.06-07.55.18:685][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.08.06-07.55.18:714][193]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller_Auto2BF35DF5F4141E0E723CF5CAF78DB0407.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto2.uasset'
+[2021.08.06-07.55.18:716][193]LogFileHelpers: Auto-saving content packages took 0.068
+[2021.08.06-08.05.19:086][118]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.08.06-08.05.19:088][118]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/map/secret_garden' took 0.033
+[2021.08.06-08.05.19:088][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bp/bp_controller] ([2] browsable assets)...
+[2021.08.06-08.05.19:112][118]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-08.05.19:133][118]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-08.05.19:133][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp/bp_controller]
+[2021.08.06-08.05.19:133][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.08.06-08.05.19:163][118]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller_Auto397E4F17843A2AA420C2B0899A1982A3B.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto3.uasset'
+[2021.08.06-08.05.19:165][118]LogFileHelpers: Auto-saving content packages took 0.077
+[2021.08.06-08.15.19:237][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.08.06-08.15.19:249][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/map/secret_garden' took 0.045
+[2021.08.06-08.15.19:249][ 98]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bp/bp_controller] ([2] browsable assets)...
+[2021.08.06-08.15.19:269][ 98]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-08.15.19:285][ 98]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-08.15.19:285][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp/bp_controller]
+[2021.08.06-08.15.19:285][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.08.06-08.15.19:316][ 98]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller_Auto4C6D6D1D14C336DE4DD4E6AB6CCE26F4F.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto4.uasset'
+[2021.08.06-08.15.19:318][ 98]LogFileHelpers: Auto-saving content packages took 0.069
+[2021.08.06-08.30.51:166][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.08.06-08.30.51:169][511]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/map/secret_garden' took 0.030
+[2021.08.06-08.30.51:170][511]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bp/bp_controller] ([2] browsable assets)...
+[2021.08.06-08.30.51:170][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp/bp_controller]
+[2021.08.06-08.30.51:170][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.08.06-08.30.51:197][511]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller_Auto5322FC7CD4BE8D2E14B1C5AB279112997.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto5.uasset'
+[2021.08.06-08.30.51:199][511]LogFileHelpers: Auto-saving content packages took 0.030
+[2021.08.06-08.33.27:633][714]BlueprintLog: New page: Compile bp_controller
+[2021.08.06-08.33.27:696][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.08.06-08.33.28:284][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset" SILENT=true
+[2021.08.06-08.33.28:314][747]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controllerF9C654674157D813702A248F2137E9A6.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Content/bp/bp_controller.uasset'
+[2021.08.06-08.33.28:331][747]AssetCheck: New page: Asset Save: bp_controller
+[2021.08.06-08.33.28:331][747]LogContentValidation: Display: Validating Blueprint /Game/bp/bp_controller.bp_controller
+[2021.08.06-08.33.52:672][972]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-08.33.52:679][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-08.33.52:679][972]PIE: New page: PIE session: secret_garden (2021年8月7日 上午12:33:52)
+[2021.08.06-08.33.52:679][972]LogPlayLevel: Creating play world package: /Game/map/UEDPIE_0_secret_garden
+[2021.08.06-08.33.53:152][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.473427s)
+[2021.08.06-08.33.53:153][972]LogAIModule: Creating AISystem for world secret_garden
+[2021.08.06-08.33.53:155][972]LogPlayLevel: PIE: World Init took: (0.002182s)
+[2021.08.06-08.33.53:155][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/secret_garden.secret_garden to /Game/map/UEDPIE_0_secret_garden.secret_garden (0.476495s)
+[2021.08.06-08.33.53:187][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.08.06-08.33.53:188][972]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.08.06-08.33.53:188][972]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-08.33.53:188][972]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-08.33.53:188][972]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-08.33.53:188][972]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-08.33.53:188][972]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-08.33.53:188][972]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-08.33.53:189][972]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-08.33.53:189][972]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-08.33.53:189][972]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-08.33.53:189][972]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-08.33.53:192][972]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-08.33.53:192][972]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-08.33.53:199][972]LogAudioMixer: Display: Using Audio Device 耳機 (KTNET SB100 Stereo)
+[2021.08.06-08.33.53:199][972]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-08.33.53:199][972]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-08.33.53:199][972]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-08.33.53:199][972]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-08.33.53:199][972]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-08.33.53:199][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-08.33.53:211][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-08.33.53:211][972]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-08.33.53:211][972]LogInit: FAudioDevice initialized.
+[2021.08.06-08.33.53:211][972]LogAudio: Display: Audio Device (ID: 9) registered with world 'secret_garden'.
+[2021.08.06-08.33.53:266][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-08.33.53:266][972]LogLoad: Game class is 'bp_game_mode_C'
+[2021.08.06-08.33.53:470][972]LogWorld: Bringing World /Game/map/UEDPIE_0_secret_garden.secret_garden up for play (max tick rate 0) at 2021.08.06-16.33.53
+[2021.08.06-08.33.53:473][972]LogWorld: Bringing up level for play took: 0.206103
+[2021.08.06-08.33.53:473][972]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.08.06-08.33.53:486][972]PIE: Server logged in
+[2021.08.06-08.33.53:488][972]PIE: Play in editor total start time 0.813 seconds.
+[2021.08.06-08.34.08:404][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-08.34.08:404][627]LogWorld: BeginTearingDown for /Game/map/UEDPIE_0_secret_garden
+[2021.08.06-08.34.08:404][627]LogSlate: Window 'HW_01_Scene Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.06-08.34.08:414][627]LogWorld: UWorld::CleanupWorld for secret_garden, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-08.34.08:445][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-08.34.08:455][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-08.34.08:480][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-08.34.08:526][627]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-08.34.08:526][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-08.34.08:527][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-08.34.08:642][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.08.06-08.34.08:662][628]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.08.06-08.49.45:723][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.08.06-08.49.45:725][306]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/map/secret_garden' took 0.036
+[2021.08.06-08.49.45:726][306]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bp/bp_controller] ([2] browsable assets)...
+[2021.08.06-08.49.45:750][306]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-08.49.45:772][306]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-08.49.45:772][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp/bp_controller]
+[2021.08.06-08.49.45:772][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2021.08.06-08.49.45:806][306]LogSavePackage: Moving 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/bp_controller_Auto69FE75CB845E00C1A3F6A278484A0E4CF.tmp' to 'D:/yuying/Unreal_hw05/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto6.uasset'
+[2021.08.06-08.49.45:808][306]LogFileHelpers: Auto-saving content packages took 0.083
